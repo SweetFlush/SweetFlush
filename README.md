@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SweetFlush
-- 👀 I’m interested in Developing Game Software
-- 🌱 I’m currently learning Unity, VR with Unity
-- 💞️ I’m looking to collaborate on nobody yet..
-- 📫 How to reach me ...
+- 한성대학교 디지털 콘텐츠 및 가상 현실 트랙 17학번 박건
+- 게임 만들고싶어서 컴공과 온 사람
 
 <!---
 SweetFlush/SweetFlush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
